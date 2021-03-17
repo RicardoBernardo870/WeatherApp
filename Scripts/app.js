@@ -9,7 +9,7 @@ const forecast = new Forecast();
 
 const updateUI = (data) => {
 
-   console.log(data)
+   
 
      //destructure properties
     const { cityDets, weather } = data
